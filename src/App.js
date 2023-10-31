@@ -15,7 +15,7 @@ function App() {
       "FirstName": "Prince",
       "LastName": "Kumar",
       "EmailId": "princekumar@gmail.com",
-      "Salary": 3000
+      "Salary": 3005
     }
   ]
 
